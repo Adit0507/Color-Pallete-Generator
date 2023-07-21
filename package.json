@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/color-thief-node": "^1.0.2",
     "colorthief": "^2.4.0",
     "next": "13.4.10",
     "react": "18.2.0",
